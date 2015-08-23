@@ -4,7 +4,7 @@
 	<body>
 		<form action="/post/save" accept-charset="utf-8" method="post">
 			<p>
-				<label for="form_title">件名</label>
+				<label for="form_title">件名です</label>
 				<input name="title" value="" type="text" id="form_title">
 			</p>
 			<p>
